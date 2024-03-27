@@ -76,3 +76,7 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+
+.custom-margin-top {
+  margin-top: 80px;
+}
